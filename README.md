@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fmaret&theme=github" alt="Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fmaret&theme=github&utcOffset=2" alt="Productive Time" />
+</div>
 
-<!--
-**fmaret/fmaret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fmaret&theme=default" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fmaret&theme=default" alt="Profile Details" />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fmaret&theme=github" alt="Profile Details" />
+</div>
